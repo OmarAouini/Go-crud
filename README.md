@@ -1,2 +1,2 @@
 # Go-crud
-Rest api for crud operations written in go
+Rest api for crud operations written in go.
